@@ -44,7 +44,7 @@ O Desafio 01 é uma criação de uma Landing-Page básica para fotalecer nosso c
 <br/>
 
 
-- [Visite o projeto online](https://esio1998.github.io/Projeto-01-Desafio-02-Flutuar)
+- [Visite o projeto online](https://esioalmeida.github.io/Stage02-Desafio01-Flutuar/)
 
 <br/>
 
